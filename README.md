@@ -21,20 +21,20 @@
 
  ## *Mídias/Contato*:
 
-<div align="center">
+<div style="display: inline_block">
    <a href="https://www.instagram.com/igor_gdias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-dias-7b1496233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
  ##
 
-<div align="center">
- <img height="300em"  src="https://user-images.githubusercontent.com/99450302/156185293-e7880e03-a583-4cf4-a2ac-e2b1d11989c7.svg" alt="Homem-Programando-3-monitores"> 
+<div style="display: inline_block">
+ <img height="250em"  src="https://user-images.githubusercontent.com/99450302/156185293-e7880e03-a583-4cf4-a2ac-e2b1d11989c7.svg" alt="Homem-Programando-3-monitores"> 
  <a href="https://github.com/IgorDias04">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IgorDias04&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 </div>
  
-<div align="center">
+<div>
  <a href="https://github.com/IgorDias04">
 
  ![Snake animation](https://github.com/IgorDias04/IgorDias04/blob/output/github-contribution-grid-snake.svg)
