@@ -32,7 +32,7 @@
  <img height="300em"  src="https://user-images.githubusercontent.com/99450302/156185293-e7880e03-a583-4cf4-a2ac-e2b1d11989c7.svg" alt="Homem-Programando-3-monitores"> 
  <a href="https://github.com/IgorDias04">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=IgorDias04&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  ![Snake animation]
+  ![Snake animation](https://github.com/IgorDias04/IgorDias04/blob/output/github-contribution-grid-snake.svg)
 </div>
  
  
