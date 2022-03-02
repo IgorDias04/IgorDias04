@@ -1,5 +1,5 @@
 # *Olá Mundo, seja bem vindo ao meu Perfil*
-#### Meu nome é Igor Dias tenho 19 anos.
+#### Meu nome é Igor Dias tenho 19 anos, curso Técnico em Informática.
 #### Atualmente estudando desenvolvimento *Front-End*. 
 
 ## *Aprendendo 👨‍💻*: 
