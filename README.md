@@ -17,7 +17,10 @@
  <img aling="space-between" alt="Icon-MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
  <img aling="space-between" alt="Icon-Python" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img aling="space-between" alt="Icon-Linux" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div><br>
+ <imb aling="space-between" alt="Icon-React" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+
+ </div>
+<br>
 
  ## *Mídias/Contato*:
 
