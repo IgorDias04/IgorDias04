@@ -9,7 +9,6 @@
  <img align="space-between" alt="Icon-CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img aling="space-between" alt="Icon-BootStrap" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
  <img aling="space-between" alt="Icon-Git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- <img aling="space-between" alt="Icon-TypeScript" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div><br>
 
 ## *Interesse em aprender 🕵️*:
@@ -18,7 +17,7 @@
  <img aling="space-between" alt="Icon-Python" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img aling="space-between" alt="Icon-Linux" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img aling="space-between" alt="Icon-React" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
+ <img aling="space-between" alt="Icon-TypeScript" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
  </div>
 <br>
 
